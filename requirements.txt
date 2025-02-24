@@ -8,3 +8,5 @@ pypdf
 langchain-text-splitters
 BeautifulSoup4
 faiss-cpu
+langchain-ollama
+streamlit
